@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Dia! 👋
 
-<!--
-**dia67752/dia67752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+Here you'll find my projects, experiments, and contributions. I'm passionate about coding, learning new technologies, and building cool stuff. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+- **Languages:** Python, JavaScript, HTML/CSS  
+- **Frameworks:** React, Node.js, Flask  
+- **Tools:** Git, Docker, VS Code  
+- **Interests:** Open Source, Machine Learning, Web Development  
+
+---
+
+## 🌱 What I'm Currently Learning  
+- Advanced JavaScript  
+- Machine Learning  
+- DevOps Practices  
+
+---
+
+## 💡 Fun Facts About Me  
+- I enjoy solving puzzles and challenges.  
+- I'm a huge fan of open-source software.  
+- In my free time, I love exploring new frameworks and tools.  
+
+---
+
+## 📫 How to Reach Me  
+- [GitHub Profile](https://github.com/dia67752)  
+- [LinkedIn](https://linkedin.com/in/dia67752)  
+- [Email](mailto:your-email@example.com)  
+
+---
+
+### Thanks for stopping by! 😊  
+Feel free to explore my repositories and contribute to any project that interests you.  
+Don't forget to ⭐ your favorite ones!
